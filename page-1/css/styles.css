@@ -1,0 +1,24 @@
+.hero {
+  background-image: url(https://cdn.culture.ru/c/641257.jpg);
+  background-color: #6d6c69;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.courses-list-item {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.course {
+  padding: 20px 45px;  
+}
+
+.hero-container {
+  text-align: center;
+}
+
+
